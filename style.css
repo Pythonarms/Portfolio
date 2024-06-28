@@ -2,7 +2,7 @@
 
 
 :root{
-    --main-color:#e38528;
+    --main-color:#9966CC;
 }
 *{
     font-family: 'Roboto',sans-serif;
@@ -20,7 +20,7 @@ html{
 scroll-behavior: smooth;
 }
 body{
-    background-color: #fcf2e8;
+    background-color: #000080;
     padding-left: 30rem;
 }
 
@@ -502,5 +502,9 @@ footer span{
     }
     .experince .box-container .box {
         padding-right: 0;
+    }
+    .contact .icons-container .icons{
+        width: 300px;
+        height:300px;
     }
 }
