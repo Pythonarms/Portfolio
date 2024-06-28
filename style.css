@@ -154,12 +154,13 @@ border-radius:50%;
 position:absolute;
 insert:4px;
 background:DA70D6;
-border-radius:15px;
+border-radius:50%;
 border: 8px solid var(--main-color);
 }
 
 .home .image img{
     width: 100%;
+height:75%;
 border-radius :50%;
 }
 .home .content{
