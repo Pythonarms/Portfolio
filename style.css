@@ -126,7 +126,7 @@ flex: 1 1 40rem;
 background: repeating-conic-gradient(from var(--a),var(--main-color) 0% ,var(--main-color) 5%,transparent 5%,
 transparent 40%,var(--main-color) 50%);
 animation : animate 4s linear infinite;
-border-radius:20px;
+border-radius:50%;
 }
 
 @property --a{
@@ -147,7 +147,7 @@ height:100%;
 background: repeating-conic-gradient(from var(--a), #0091fe 0%,#0091fe 5%,transparent 5%,
 transparent 40%,#0091fe 50%);
 animation-delay:-1s;
-border-radius:20px;
+border-radius:50%;
 }
 
 .home .image::after{
